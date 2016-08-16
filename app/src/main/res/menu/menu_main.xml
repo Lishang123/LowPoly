@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/choose_pic"
+        android:id="@+id/action_choose"
+        app:showAsAction="always"/>
+    <item
+        android:title="@string/finish"
+        android:id="@+id/action_done"
+        android:icon="@drawable/ic_done_white_24dp"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_tst"
+        android:title="@string/test"
+        app:showAsAction="never" />
+</menu>
