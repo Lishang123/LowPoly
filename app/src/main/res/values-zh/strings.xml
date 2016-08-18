@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">低平面照</string>
+    <string name="choose_pic">选择照片</string>
+    <string name="finish">完成</string>
+    <string name="test">测试</string>
+    <string name="about">关于「LowPoly」</string>
+    <string name="alert">提示</string>
+    <string name="alert_message">
+        选择照片制作一张"低多边形"照片\r\n
+        通过调整底部的程度条控制制作色块的多少,程度越大,色块数目越多\r\n
+        建议您选择高清大图,图片的色彩变化范围应尽量大,不选择色彩过于集中的照片
+    </string>
+    <string name="ok">确定</string>
+    <string name="the_image_saved">该图片已保存</string>
+    <string name="have_saved_to">已保存到</string>
+    <string name="have_finished">已经制作完了，请重新选择图片</string>
+    <string name="choose_image_to_make">请先选择图片再制作</string>
+
+</resources>

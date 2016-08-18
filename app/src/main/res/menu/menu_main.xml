@@ -12,11 +12,15 @@
         android:icon="@drawable/ic_done_white_24dp"
         app:showAsAction="always"/>
     <item
-        android:id="@+id/action_about"
-        android:title="@string/about"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_tst"
-        android:title="@string/test"
-        app:showAsAction="never" />
+        android:title="@string/alert"
+       android:id="@+id/action_alert"
+        app:showAsAction="never"/>
+    <!--<item-->
+        <!--android:id="@+id/action_about"-->
+        <!--android:title="@string/about"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:id="@+id/action_tst"-->
+        <!--android:title="@string/test"-->
+        <!--app:showAsAction="never" />-->
 </menu>
