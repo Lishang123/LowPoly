@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LowPoly</string>
+    <string name="choose_pic">choose image</string>
+    <string name="finish">finish</string>
+    <string name="about">about「LowPoly」</string>
+    <string name="test">test</string>
+    <string name="alert">altert</string>
+    <string name="alert_message">
+        Choose photos make a "low polygon" photo.\r\n
+        by adjusting the degree of control at the bottom of the production of color piece of how many, the degree.\r\n
+        the greater the number of color piece the more you are advised to choose high clearly the figure.\r\n
+        the picture color range should be as far as possible big, not to choose color pictures of concentration</string>
+    <string name="ok">ok</string>
+    <string name="the_image_saved">The picture has been saved</string>
+    <string name="have_saved_to">Has been saved to </string>
+    <string name="have_finished">Has finished maked, please choose photos again</string>
+    <string name="choose_image_to_make">Please choose photos before making</string>
+</resources>
